@@ -52,7 +52,7 @@ const fileUpload = (props) => {
                       <p className="text-lead text-light wel-text-color">
                         {props?.selectedFile?.name
                           ? props?.selectedFile?.name
-                          : "No file chosen, yet!"}
+                          : "Select the File"}
                           </p>
                       </h3>
                     </div>
